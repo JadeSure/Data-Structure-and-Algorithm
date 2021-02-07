@@ -22,6 +22,9 @@ The performance of each representation varies depending on the characteristics o
 tree.
 Details check in the project 1 description <a href="/Project1_description.pdf" download="Project1_description.pdf">*Download Project 1 Description*</a>
 
+Part3 Complexity Analysis for BSP tree
+<a href="https://youtu.be/9AXQ7uDGYlU" title="Link Title"><img src="/Binary_space_partition.png" alt="Oops" /></a>
+
 
 ## Project Two
 Mazes have a long history and many of us would remember seeing our first mazes in a
