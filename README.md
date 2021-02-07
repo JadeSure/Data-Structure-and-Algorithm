@@ -43,8 +43,7 @@ cell that is adjacent to a visited cell. If found, carve a passage between the t
 and let the formerly unvisited cell be the new starting location.
 4. Repeat steps 2 and 3 until the hunt mode scans the entire grid and finds no unvisited
 cells.
-Following the following link for more details http://weblog.jamisbuck.org/2011/1/24/mazegeneration-
-hunt-and-kill-algorithm.
+Following the following link for more details http://weblog.jamisbuck.org/2011/1/24/mazegeneration-hunt-and-kill-algorithm.
 
 • Kruskal's  
 This generator is based on Kruskal’s algorithm for computing minimum spanning trees
